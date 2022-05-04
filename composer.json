@@ -1,0 +1,9 @@
+{
+    "name": "avengermoskvi4/pract",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Photos\\": ""
+        }
+    }
+}
